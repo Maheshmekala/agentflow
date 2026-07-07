@@ -1,0 +1,7 @@
+server:
+  port: 8082
+
+groq:
+  api-key: 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
+  api-url: https://api.groq.com/openai/v1/chat/completions
+  model: llama-3.3-70b-versatile
